@@ -24,7 +24,7 @@ Hello
 
 ## Q1
 ### a)
-Using the equation 4.2 $ \dot{\theta}=\displaystyle \frac{v}{L}\tan{\gamma}$ after transforming the inputs to SI units
+Using the equation 4.2  $\dot{\theta}=\displaystyle \frac{v}{L}\tan{\gamma}$ after transforming the inputs to SI units
 
 ```matlab
 Turn_rate = deg2rad(10);
@@ -74,8 +74,10 @@ $$R_{1L}=R-W/2$$
 $$R_{1R}=R+W/2$$
 
 Vehicle speed V is measured at the origin of the frame {V} located between the back wheels. We can apply equation (4.1) to both back wheels
+
 $$\dot\theta=\frac{V}{R}=\frac{V_{1L}}{R_{1L}}=\frac{V_{1R}}{R_{1R}}$$
-and the wheel velocity is related to wheel angular velocity by $V_i=\omega _iR_{w_i}$ so we can write
+
+and the wheel velocity is related to wheel angular velocity by $$V_i=\omega _iR_{w_i}$$ so we can write
 
 $$\frac{V}{R}=\frac{\omega _{1L}R_w}{R_{1L}}=\frac{\omega _{1R}R_w}{R_{1R}}$$
 
