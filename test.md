@@ -5,7 +5,7 @@ home_spotlights:
     path: ''
     url: ''
   enabled: false
-  weight: 
+  weight: 1
   excerpt: ''
 layout: page
 title: test
