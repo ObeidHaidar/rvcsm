@@ -32,7 +32,9 @@ Forward_speed = 20*(60/1000);
 L=2;
 Steering_wheel_angle_in_degrees = atand(Turn_rate*L/Forward_speed)
 ```
+
 > Steering\_wheel\_angle\_in\_degrees = 16.2191
+
 ### b)
 $R_B=\displaystyle \frac{L}{\tan{\gamma}}$  $\therefore$ $\gamma = \tan^{-1}\left({\displaystyle\frac{L}{R_B}}\right)$
 
