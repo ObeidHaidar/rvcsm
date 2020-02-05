@@ -10,6 +10,9 @@ home_spotlights:
 layout: page
 title: test
 content_img_path: ''
+menu:
+  main:
+    weight: 4
 published: false
 
 ---
