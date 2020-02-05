@@ -4,7 +4,7 @@ home_spotlights:
     data_position: top center
     path: ''
     url: ''
-  enabled: false
+  enabled: true
   weight: 1
   excerpt: ''
 layout: page
