@@ -38,7 +38,7 @@ sections:
   templates:
   - site_menus
 upload_dir: media
-public_path: "/media"
+public_path: "/md_media"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
