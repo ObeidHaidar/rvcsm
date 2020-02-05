@@ -9,13 +9,17 @@ home_spotlights:
   excerpt: ''
 layout: page
 title: test
-content_img_path: "/media/WhatsApp Image 2020-02-04 at 6.07.24 PM.jpeg"
+content_img_path: ''
 published: false
 
 ---
 Hello
 
 # hey
+
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
 
 # Chapter 4: Mobile robot vehicles
 
