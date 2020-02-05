@@ -20,6 +20,10 @@ Hello
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
+{{< raw >}}
+\[ S(x) = \frac{1}{1+e^{-x}} \]
+{{< /raw >}}
+
 
 # Chapter 4: Mobile robot vehicles
 
