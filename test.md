@@ -18,7 +18,7 @@ Hello
 # hey
 
 
- x$$\dot{\theta}=\displaystyle \frac{v}{L}\tan{\gamma}$$
+ x $$\dot{\theta}=\displaystyle \frac{v}{L}\tan{\gamma}$$
 
 # Chapter 4: Mobile robot vehicles
 
