@@ -1,0 +1,39 @@
+---
+label: test
+hide_body: false
+fields:
+- type: field_group
+  name: home_spotlights
+  label: home_spotlights
+  fields:
+  - type: field_group
+    name: home_img
+    label: home_img
+    fields:
+    - type: text
+      name: data_position
+      label: data_position
+    - type: text
+      name: path
+      label: path
+    - type: text
+      name: url
+      label: url
+  - type: boolean
+    name: enabled
+    label: enabled
+  - type: text
+    name: weight
+    label: weight
+  - type: text
+    name: excerpt
+    label: excerpt
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: content_img_path
+  label: content_img_path
