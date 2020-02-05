@@ -17,10 +17,8 @@ Hello
 
 # hey
 
-$$ \mathbf{X}\_{n,p} = \mathbf{A}\_{n,k} \mathbf{B}\_{k,p} $$
 
-
-$$x^2$$
+$$\dot{\theta}=\displaystyle \frac{v}{L}\tan{\gamma}$$
 
 # Chapter 4: Mobile robot vehicles
 
