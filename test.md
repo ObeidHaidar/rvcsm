@@ -83,7 +83,7 @@ $$R_{1R}=R+W/2$$
 
 Vehicle speed V is measured at the origin of the frame {V} located between the back wheels. We can apply equation (4.1) to both back wheels
 
-$$\\dot\\theta=\\frac{V}{R}=\\frac{V_{1L}}{R_{1L}}=\\frac{V_{1R}}{R_{1R}}$$
+\\[\dot\\theta=\frac{V}{R}=\frac{V_{1L}}{R_{1L}}=\frac{V_{1R}}{R_{1R}}\\]
 
 and the wheel velocity is related to wheel angular velocity by $$V_i=\\omega _iR_{w_i}$$ so we can write
 
