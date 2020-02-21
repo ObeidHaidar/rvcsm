@@ -13,7 +13,6 @@ content_img_path: ''
 menu:
   main:
     weight: 4
-published: false
 
 ---
 Hello
