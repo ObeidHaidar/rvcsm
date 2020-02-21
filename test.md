@@ -137,3 +137,5 @@ end
 ![Q4](md_media/C4Q4.png "Question 4")
 
 ![](/md_media/C4Q4.png)
+
+![](/md_media/C4Q12.png)
