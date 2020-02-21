@@ -87,7 +87,7 @@ Vehicle speed V is measured at the origin of the frame {V} located between the b
 
 and the wheel velocity is related to wheel angular velocity by $$V_i=\\omega _iR_{w_i}$$ so we can write
 
-$$\\frac{V}{R}=\\frac{\\omega _{1L}R_w}{R_{1L}}=\\frac{\\omega _{1R}R_w}{R_{1R}}$$
+\\[\frac{V}{R}=\frac{\omega _{1L}R_w}{R_{1L}}=\frac{\omega _{1R}R_w}{R_{1R}}\\]
 
 In MATLAB this is simply
 
