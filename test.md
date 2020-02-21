@@ -85,7 +85,7 @@ Vehicle speed V is measured at the origin of the frame {V} located between the b
 
 \\[\dot\\theta=\frac{V}{R}=\frac{V_{1L}}{R_{1L}}=\frac{V_{1R}}{R_{1R}}\\]
 
-and the wheel velocity is related to wheel angular velocity by $$V_i=\\omega _iR_{w_i}$$ so we can write
+and the wheel velocity is related to wheel angular velocity by $$V_i=\omega _iR_{w_i}$$ so we can write
 
 \\[\frac{V}{R}=\frac{\omega _{1L}R_w}{R_{1L}}=\frac{\omega _{1R}R_w}{R_{1R}}\\]
 
